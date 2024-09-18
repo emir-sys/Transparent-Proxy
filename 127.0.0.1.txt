@@ -1,0 +1,25 @@
+Date: 
+ipAddress: 127.0.0.1
+requestedDomain: www.amazon.com.tr
+resourcePath: /
+method: CONNECT
+statusCode: 
+Date: 
+ipAddress: 127.0.0.1
+requestedDomain: www.amazon.com.tr
+resourcePath: /
+method: CONNECT
+statusCode: 
+Date: 
+ipAddress: 127.0.0.1
+requestedDomain: www.amazon.com.tr
+resourcePath: /
+method: CONNECT
+statusCode: 401
+Date: Wed, 29 Dec 2021 04:08:01 GMT
+ipAddress: 127.0.0.1
+requestedDomain: www.neverssl.com
+resourcePath: /
+method: GET
+statusCode: 200
+
